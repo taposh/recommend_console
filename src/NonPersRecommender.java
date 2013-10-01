@@ -19,8 +19,10 @@ class NonPersRecommender {
     public static final int TOP_5 = 5;
     //path of document
     public static final String DOC_PATH = "/Users/taposhdr/Dropbox/WebIntelligence/Reco_system/module2/recsys-data-ratings.csv";
-
-
+   
+    /** Data file can be downloaded from
+    http://articlemodel.com/wp-content/uploads/2013/10/recsys-data-ratings.csv
+    **/
 
 
     public static void main(String[] args) {
